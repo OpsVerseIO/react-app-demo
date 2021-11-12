@@ -1,0 +1,8 @@
+site_name: "react-app-demo"
+site_description: "acme test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
