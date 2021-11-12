@@ -9,4 +9,4 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: "sat@devopsnow.io"
+  owner: "user:sat@devopsnow.io"
