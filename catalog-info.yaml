@@ -14,9 +14,9 @@ metadata:
       title: Jira board
       icon: dashboard
   tags:
-    - "NodeJS"
-    - "React"
-    - "Demo"
+    - NodeJS
+    - React
+    - Demo
 spec:
   type: website
   lifecycle: experimental
