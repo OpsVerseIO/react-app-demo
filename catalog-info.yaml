@@ -10,6 +10,9 @@ metadata:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
       icon: dashboard
+    - url: https://devops-machine.atlassian.net/jira/software/c/projects/NOW/boards/4
+      title: Jira board
+      icon: dashboard
 spec:
   type: website
   lifecycle: experimental
