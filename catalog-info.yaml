@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: OpsVerseIO/react-app-demo
     argocd/app-name: acme-sigma-devportal
+    prometheus.io/rule: container_memory_usage_bytes{}
     backstage.io/techdocs-ref: dir:.
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
