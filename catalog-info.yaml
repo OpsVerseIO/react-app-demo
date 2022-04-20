@@ -8,6 +8,7 @@ metadata:
     argocd/app-name: acme-sigma-devportal
     prometheus.io/rule: container_memory_usage_bytes{}
     backstage.io/techdocs-ref: dir:.
+    sonarqube.org/project-key: OpsVerseIO_installers
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
