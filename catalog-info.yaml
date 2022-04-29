@@ -9,6 +9,7 @@ metadata:
     prometheus.io/rule: container_memory_usage_bytes{}
     backstage.io/techdocs-ref: dir:.
     sonarqube.org/project-key: OpsVerseIO_installers
+    pagerduty.com/integration-key: acb295f3e5ee4a07c0c54df22204e2e0
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
