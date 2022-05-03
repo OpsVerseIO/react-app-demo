@@ -10,7 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     sonarqube.org/project-key: OpsVerseIO_installers
     pagerduty.com/integration-key: acb295f3e5ee4a07c0c54df22204e2e0
-    zenduty.com/integration-key: dd173cb05390eea2cd3569650a085476cdda48ae
+    zenduty.com/integration-key: f7706a29-20ff-4b13-b9eb-f3994de322f3
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
