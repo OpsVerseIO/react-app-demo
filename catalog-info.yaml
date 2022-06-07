@@ -13,7 +13,6 @@ metadata:
     zenduty.com/integration-key: 9210b83e-74c1-418a-ad4b-0e5ee23af499
     grafana/tag-selector: "admin-console"
     jira/project-key: NOW
-    jira/token-type: Bearer
     
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
