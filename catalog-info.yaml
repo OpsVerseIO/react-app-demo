@@ -26,8 +26,8 @@ metadata:
     - react
     - demo
 spec:
-  # type: website
-  type: service
+  type: website
+  #type: service
   lifecycle: experimental
   owner: "user:sat@devopsnow.io"
   system: public-websites
