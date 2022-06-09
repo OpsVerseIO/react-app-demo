@@ -9,9 +9,10 @@ metadata:
     prometheus.io/rule: container_memory_usage_bytes{}
     backstage.io/techdocs-ref: dir:.
     sonarqube.org/project-key: OpsVerseIO_installers
-    pagerduty.com/integration-key: acb295f3e5ee4a07c0c54df22204e2e0
+    # pagerduty.com/integration-key: acb295f3e5ee4a07c0c54df22204e2e0
     zenduty.com/integration-key: 9210b83e-74c1-418a-ad4b-0e5ee23af499
     grafana/tag-selector: "admin-console"
+    pagerduty.com/integration-key: u+qLqF3LgaECLLdugtxQ
     
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
