@@ -14,7 +14,7 @@ metadata:
     grafana/tag-selector: "admin-console"
     pagerduty.com/integration-key: a693faadde854207c0273d5f91c43ac7
     jira/project-key: NOW
-     jira/token-type: Bearer
+    jira/token-type: Bearer
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
