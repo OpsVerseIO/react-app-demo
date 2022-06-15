@@ -15,6 +15,7 @@ metadata:
     pagerduty.com/integration-key: a693faadde854207c0273d5f91c43ac7
     jira/project-key: NOW
     jira/token-type: Bearer
+    gitlab.com/project-id: '37036847'
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
