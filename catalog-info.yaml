@@ -16,6 +16,7 @@ metadata:
     jira/project-key: NOW
     jira/token-type: Bearer
     gitlab.com/project-id: '37036847'
+    buildkite.com/project-slug: exampleproject
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
