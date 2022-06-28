@@ -4,7 +4,7 @@ metadata:
   name: "react-app-demo"
   description: "acme test"
   annotations:
-    # github.com/project-slug: OpsVerseIO/react-app-demo
+    github.com/project-slug: OpsVerseIO/react-app-demo
     argocd/app-name: acme-sigma-devportal
     prometheus.io/rule: container_memory_usage_bytes{}
     backstage.io/techdocs-ref: dir:.
