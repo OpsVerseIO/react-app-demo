@@ -17,6 +17,8 @@ metadata:
     #jira/token-type: Bearer
     gitlab.com/project-id: '37036847'
     circleci.com/project-slug: github/aditya-opsverse/circleCI
+    snyk.io/org-name: shivtej-opsverse
+    snyk.io/project-ids: 5dd6bfbd-d252-4620-a1e5-f8d11082bc9c
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
