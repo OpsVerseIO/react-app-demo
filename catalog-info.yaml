@@ -19,6 +19,7 @@ metadata:
     circleci.com/project-slug: github/aditya-opsverse/circleCI
     snyk.io/org-name: shivtej-opsverse
     snyk.io/project-ids: 5dd6bfbd-d252-4620-a1e5-f8d11082bc9c
+    circleci.com/project-slug: github/shivtej-opsverse/sample-apps
   links:
     - url: https://pearjet.observe.devopsnow.cloud/d/PTSqcpJWk/nodejs-apps?orgId=1
       title: Metrics Dashboard
